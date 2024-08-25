@@ -1,0 +1,22 @@
+{
+  "slots": [
+    {
+      "slot": 1,
+      "game_modes": [
+        "Showdown"
+      ]
+    },
+    {
+      "slot": 2,
+      "game_modes": [
+        "GemGrab"
+      ]
+    },
+    {
+      "slot": 3,
+      "game_modes": [
+        "Bounty"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,865 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Veltonsoft.BrawlStars.Velofauna": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Veltonsoft.BrawlStars.Velofauna": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FuzzySharp": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.27.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.27.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "SevenZip": {
+              "target": "Package",
+              "version": "[19.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqFirewall\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqFirewall.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqFirewall\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqFirewall.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqFirewall",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqFirewall\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqFirewall.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqFirewall\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqProxy\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqProxy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqProxy\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqProxy.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqProxy",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqProxy\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqProxy.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqProxy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_9\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_9.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_9\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_9.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_9\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_9.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_9\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_9.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_9",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_9\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_9.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_9\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.Inject.A1",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqFirewall\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqFirewall.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqFirewall\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqFirewall.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqProxy\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqProxy.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqProxy\\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqProxy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

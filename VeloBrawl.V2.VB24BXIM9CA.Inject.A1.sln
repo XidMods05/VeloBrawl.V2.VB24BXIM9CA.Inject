@@ -1,0 +1,89 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeloBrawl.V2.VB24BXIM9CA.Inject.A1", "VeloBrawl.V2.VB24BXIM9CA.Inject.A1\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.csproj", "{491FF2B8-3E01-4534-9492-AF9447A3CBB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database", "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database.csproj", "{515A3076-2C61-4975-803A-FB61D8ACE124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary", "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj", "{939E562D-671B-4FCB-8695-9797C21AE13E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol", "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol.csproj", "{55CD3821-876C-4CAE-880F-04EFE549BA2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler", "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler.csproj", "{F9537906-B7D5-4C37-BA86-B110AD96B6A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servers", "Servers", "{08C315DE-ADFD-40AA-A5DE-160B7864A0A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1", "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_1.csproj", "{07B8F6F5-0637-48B3-9933-A137CE8BD9D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqProxy", "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqProxy\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqProxy.csproj", "{A8DD10AB-5393-409A-9A84-D22D27A13CDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer", "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer.csproj", "{DAD2BA54-FB85-47E1-9E9F-2294222E93AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator", "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Allocator.csproj", "{90F4D812-7551-4092-8961-6C21FD8A19D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqFirewall", "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqFirewall\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqFirewall.csproj", "{4C080B4E-F901-4E7F-B94E-8C18173B0038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1", "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1.csproj", "{BEAD33F4-6D3A-4517-9A91-59CC2E4D43DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_9", "VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_9\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Server.Node_9.csproj", "{020C24E4-C000-45C2-B3B9-BCF79948239A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{491FF2B8-3E01-4534-9492-AF9447A3CBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491FF2B8-3E01-4534-9492-AF9447A3CBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491FF2B8-3E01-4534-9492-AF9447A3CBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491FF2B8-3E01-4534-9492-AF9447A3CBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515A3076-2C61-4975-803A-FB61D8ACE124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515A3076-2C61-4975-803A-FB61D8ACE124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515A3076-2C61-4975-803A-FB61D8ACE124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515A3076-2C61-4975-803A-FB61D8ACE124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{939E562D-671B-4FCB-8695-9797C21AE13E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939E562D-671B-4FCB-8695-9797C21AE13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939E562D-671B-4FCB-8695-9797C21AE13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939E562D-671B-4FCB-8695-9797C21AE13E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55CD3821-876C-4CAE-880F-04EFE549BA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CD3821-876C-4CAE-880F-04EFE549BA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CD3821-876C-4CAE-880F-04EFE549BA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CD3821-876C-4CAE-880F-04EFE549BA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9537906-B7D5-4C37-BA86-B110AD96B6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9537906-B7D5-4C37-BA86-B110AD96B6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9537906-B7D5-4C37-BA86-B110AD96B6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9537906-B7D5-4C37-BA86-B110AD96B6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B8F6F5-0637-48B3-9933-A137CE8BD9D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B8F6F5-0637-48B3-9933-A137CE8BD9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B8F6F5-0637-48B3-9933-A137CE8BD9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B8F6F5-0637-48B3-9933-A137CE8BD9D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8DD10AB-5393-409A-9A84-D22D27A13CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DD10AB-5393-409A-9A84-D22D27A13CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8DD10AB-5393-409A-9A84-D22D27A13CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8DD10AB-5393-409A-9A84-D22D27A13CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD2BA54-FB85-47E1-9E9F-2294222E93AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD2BA54-FB85-47E1-9E9F-2294222E93AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD2BA54-FB85-47E1-9E9F-2294222E93AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD2BA54-FB85-47E1-9E9F-2294222E93AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F4D812-7551-4092-8961-6C21FD8A19D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F4D812-7551-4092-8961-6C21FD8A19D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F4D812-7551-4092-8961-6C21FD8A19D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F4D812-7551-4092-8961-6C21FD8A19D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C080B4E-F901-4E7F-B94E-8C18173B0038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C080B4E-F901-4E7F-B94E-8C18173B0038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C080B4E-F901-4E7F-B94E-8C18173B0038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C080B4E-F901-4E7F-B94E-8C18173B0038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEAD33F4-6D3A-4517-9A91-59CC2E4D43DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEAD33F4-6D3A-4517-9A91-59CC2E4D43DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEAD33F4-6D3A-4517-9A91-59CC2E4D43DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEAD33F4-6D3A-4517-9A91-59CC2E4D43DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020C24E4-C000-45C2-B3B9-BCF79948239A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020C24E4-C000-45C2-B3B9-BCF79948239A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020C24E4-C000-45C2-B3B9-BCF79948239A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020C24E4-C000-45C2-B3B9-BCF79948239A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{07B8F6F5-0637-48B3-9933-A137CE8BD9D1} = {08C315DE-ADFD-40AA-A5DE-160B7864A0A9}
+		{90F4D812-7551-4092-8961-6C21FD8A19D7} = {08C315DE-ADFD-40AA-A5DE-160B7864A0A9}
+		{020C24E4-C000-45C2-B3B9-BCF79948239A} = {08C315DE-ADFD-40AA-A5DE-160B7864A0A9}
+	EndGlobalSection
+EndGlobal

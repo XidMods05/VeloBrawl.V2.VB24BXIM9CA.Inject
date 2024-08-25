@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <EnableUnsafeBinaryFormatterSerialization>true</EnableUnsafeBinaryFormatterSerialization>
+        <NoWarn>$(NoWarn);SYSLIB0011</NoWarn>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Update="SaveBase\events.json">
+            <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </None>
+        <None Update="SaveBase\config.json">
+            <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </None>
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj"/>
+        <ProjectReference Include="..\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Butler.csproj"/>
+        <ProjectReference Include="..\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database.csproj"/>
+        <ProjectReference Include="..\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol.csproj"/>
+        <ProjectReference Include="..\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqFirewall\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqFirewall.csproj"/>
+        <ProjectReference Include="..\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqProxy\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.RabbitMqProxy.csproj"/>
+    </ItemGroup>
+
+</Project>

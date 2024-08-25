@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.AbstractionLayer.csproj"/>
+        <ProjectReference Include="..\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.DependencyLayer.P1.csproj"/>
+        <ProjectReference Include="..\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Database.csproj"/>
+        <ProjectReference Include="..\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Protocol.csproj"/>
+    </ItemGroup>
+
+</Project>

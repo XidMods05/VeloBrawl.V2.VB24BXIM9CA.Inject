@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <EnableUnsafeBinaryFormatterSerialization>true</EnableUnsafeBinaryFormatterSerialization>
+        <NoWarn>$(NoWarn);SYSLIB0011</NoWarn>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="FuzzySharp" Version="2.0.2"/>
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0"/>
+        <PackageReference Include="MongoDB.Bson" Version="2.27.0"/>
+        <PackageReference Include="MongoDB.Driver" Version="2.27.0"/>
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.3"/>
+        <PackageReference Include="Npgsql" Version="8.0.3"/>
+        <PackageReference Include="SevenZip" Version="19.0.0"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary\VeloBrawl.V2.VB24BXIM9CA.Inject.A1.Laser.Auxiliary.csproj"/>
+    </ItemGroup>
+</Project>
