@@ -87,8 +87,9 @@ public class MessageManager : IOwnerMessageManager
                 return messageManager.ReceiveMessage(piranhaMessage);
             return -6001;
         }
-        catch
+        catch (Exception e)
         {
+            ConsoleLogger.WriteTextWithPrefix(ConsoleLogger.Prefixes.Error, e);
             return -6003;
         }
     }
