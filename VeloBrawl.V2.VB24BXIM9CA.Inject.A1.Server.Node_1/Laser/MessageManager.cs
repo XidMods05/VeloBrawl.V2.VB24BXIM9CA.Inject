@@ -176,7 +176,7 @@ public class MessageManager : IMessageManager
                 {
                     loginFailedMessage.ErrorCode = Convert.ToInt32(FailedCodeHelperTable.CustomMessage);
                     loginFailedMessage.Reason =
-                        languageManager.TranslateTo("Clear the app data, please (mongoDB error)!", out _);
+                        languageManager.TranslateTo("Clear the app data, please (DB error)!", out _);
                 }
 
                 SendMessage(loginFailedMessage);
