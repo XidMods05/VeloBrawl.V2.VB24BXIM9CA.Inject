@@ -74,6 +74,7 @@ public class MessageManager : IMessageManager
     public void Goodbye()
     {
         if (_databaseModel == null!) return;
+        _databaseModel.Document.IsOnline = false;
         LogicHomeModeCollector.LogicHomeModes.TryRemove(_databaseModel.Id, out _);
         ActiveClientsRotator.AllocSessions.GetValueOrDefault(_databaseModel.Id)?.Remove(AllocSession);
     }
